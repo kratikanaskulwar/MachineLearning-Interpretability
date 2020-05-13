@@ -16,19 +16,19 @@ To run any program, keep the Data folder in the directory where the program is b
 ## 4. Heatmaps
 This folder contains heatmps for local and global programs.
 
-#### Heatmap_fortestset_globalmethods.png
+#### 1. Heatmap_fortestset_globalmethods.png
 This heatmap has been created for the agreement among global methods.
 
-### Heatmap_for1fraudinstance_localmethods.png
+#### 2. Heatmap_for1fraudinstance_localmethods.png
 This heatmap has been created for the agreement among local methods for 1 fraud observation.
 
-### Heatmap_for150fraudinstances_localmethods.png
+#### 3. Heatmap_for150fraudinstances_localmethods.png
 This heatmap has been created for the agreement among local methods across 150 fraud observations.
 
-### Heatmap_for150nonfraudinstance_localmethods.png
+#### 4. Heatmap_for150nonfraudinstance_localmethods.png
 This heatmap has been created for the agreement among local methods across 150 non-fraud observations.
 
-### Heatmap_for300obs(global)and150fraudobs(local).png
+#### 5. Heatmap_for300obs(global)and150fraudobs(local).png
 This heatmap has been created for the agreement among local methods for 150 fraud observation and global methods across total 300 fraud and non-fraud observations.
 
 There is one more heatmap in the Interpretability_Programs_Summary.xlsx file in the Summary folder. This is for agreement among local methods with 1 fraud observation and global methods.
