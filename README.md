@@ -9,3 +9,6 @@ Follows these steps to clone the repository:
   installation instructions here: https://git-lfs.github.com/
   
 2)Clone the repository using git clone command.
+
+## 3. Running program
+To run any program, keep the Data folder in the directory where the program is being run from.
