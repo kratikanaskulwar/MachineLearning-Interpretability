@@ -20,6 +20,6 @@ This folder contains code for programs using python/R packages/library. It has b
 This folder contains results of the programs and has been kept in respective local and global program subfolders.
 
 ## 6. ResultsforMultipleObservations
-This folder has program results of 150 fraud and non-fraud observation. Result files consist of feature names and the corresponding normalized contribution.
+This folder has program results of 150 fraud and non-fraud observations. Result files consist of feature names and the corresponding normalized contribution.
 
 In addition to the Heatmaps folder, there is also a heatmap in the Interpretability_Programs_Summary.xlsx file in the Summary folder. This is for agreement among local methods with 1 fraud observation and global methods.
