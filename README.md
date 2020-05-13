@@ -29,4 +29,4 @@ This heatmap has been created for the agreement among local methods across 150 f
 This heatmap has been created for the agreement among local methods across 150 non-fraud observations.
 
 ### Heatmap_for300obs(global)and150fraudobs(local).png
-This heatmap has been created for the agreement among local methods for 150 fraud observation and global methods across total 300 fraud and non-fraud observations from test set.
+This heatmap has been created for the agreement among local methods for 150 fraud observation and global methods across total 300 fraud and non-fraud observations.
